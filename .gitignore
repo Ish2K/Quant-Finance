@@ -17,3 +17,6 @@ ibapi.egg-info
 tests
 venv
 *.csv
+.conda
+models/*
+*.pkl
